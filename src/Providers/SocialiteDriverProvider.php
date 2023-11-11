@@ -1,9 +1,9 @@
 <?php
 
-namespace Debutify\Shopify\Providers;
+namespace Kmrifat\Shopify\Providers;
 
 
-use Debutify\Shopify\Socialites\SocialiteShopifyProvider;
+use Kmrifat\Shopify\Socialites\SocialiteShopifyProvider;
 use Illuminate\Support\ServiceProvider;
 use Laravel\Socialite\Contracts\Factory;
 

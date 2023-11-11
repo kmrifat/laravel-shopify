@@ -1,9 +1,9 @@
 <?php
 
-namespace Debutify\Shopify\Socialites;
+namespace Kmrifat\Shopify\Socialites;
 
 
-use Debutify\Shopify\Jobs\WebHookRegisterJob;
+use Kmrifat\Shopify\Jobs\WebHookRegisterJob;
 use GuzzleHttp\RequestOptions;
 use Illuminate\Support\Str;
 use Laravel\Socialite\Two\AbstractProvider;

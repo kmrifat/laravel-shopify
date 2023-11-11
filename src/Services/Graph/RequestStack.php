@@ -1,6 +1,6 @@
 <?php
 
-namespace Debutify\Shopify\Services\Graph;
+namespace Kmrifat\Shopify\Services\Graph;
 
 use Illuminate\Config\Repository;
 use Illuminate\Contracts\Foundation\Application;

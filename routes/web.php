@@ -1,6 +1,6 @@
 <?php
 
-use Debutify\Shopify\Adapters\ShopifyWebhookAdapter;
+use Kmrifat\Shopify\Adapters\ShopifyWebhookAdapter;
 use Illuminate\Support\Facades\Route;
 
 $shopify_webhooks = (new ShopifyWebhookAdapter(config('shopify.webhooks')))->webhookCollection();

@@ -1,14 +1,14 @@
 <?php
 
-namespace Debutify\Shopify;
+namespace Kmrifat\Shopify;
 
-use Debutify\Shopify\Services\Graph\GraphService;
-use Debutify\Shopify\Services\Rest\RESTService;
+use Kmrifat\Shopify\Services\Graph\GraphService;
+use Kmrifat\Shopify\Services\Rest\RESTService;
 
 /**
  * Class Shopify
  *
- * @package Debutify\Shopify
+ * @package Kmrifat\Shopify
  */
 class Shopify
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Debutify\Shopify\Services\Graph;
+namespace Kmrifat\Shopify\Services\Graph;
 
 use GuzzleHttp\Promise\PromiseInterface;
 use Illuminate\Config\Repository;

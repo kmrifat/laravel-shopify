@@ -1,6 +1,6 @@
 <?php
 
-namespace Debutify\Shopify\Services\Rest;
+namespace Kmrifat\Shopify\Services\Rest;
 
 use Closure;
 use DateTime;

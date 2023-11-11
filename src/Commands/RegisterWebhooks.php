@@ -1,6 +1,6 @@
 <?php
 
-namespace Debutify\Shopify\Commands;
+namespace Kmrifat\Shopify\Commands;
 
 use Illuminate\Console\Command;
 

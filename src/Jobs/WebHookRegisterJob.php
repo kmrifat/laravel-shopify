@@ -1,9 +1,9 @@
 <?php
 
-namespace Debutify\Shopify\Jobs;
+namespace Kmrifat\Shopify\Jobs;
 
-use Debutify\Shopify\Adapters\ShopifyWebhookAdapter;
-use Debutify\Shopify\Services\Rest\RESTService;
+use Kmrifat\Shopify\Adapters\ShopifyWebhookAdapter;
+use Kmrifat\Shopify\Services\Rest\RESTService;
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldBeUnique;
 use Illuminate\Contracts\Queue\ShouldQueue;

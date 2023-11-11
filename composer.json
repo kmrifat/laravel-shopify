@@ -1,14 +1,14 @@
 {
-    "name": "debutify/shopify",
+    "name": "kmrifat/laravel-shopify",
     "autoload": {
         "psr-4": {
-            "Debutify\\Shopify\\": "src/"
+            "Kmrifat\\Shopify\\": "src/"
         }
     },
     "authors": [
         {
             "name": "Rifat ul alom",
-            "email": "rifat.ulalom@debutify.com"
+            "email": "kmrifat@gmail.com"
         }
     ],
     "require": {
@@ -18,10 +18,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Debutify\\Shopify\\ShopifyServiceProvider"
+                "Kmrifat\\Shopify\\ShopifyServiceProvider"
             ],
             "aliases": {
-                "Shopify": "Debutify\\Shopify\\Facades\\Shopify"
+                "Shopify": "Kmrifat\\Shopify\\Facades\\Shopify"
             }
         }
     }

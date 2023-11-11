@@ -1,9 +1,9 @@
 <?php
 
-namespace Debutify\Shopify\Http\Controllers;
+namespace Kmrifat\Shopify\Http\Controllers;
 
 use App\Http\Controllers\Controller;
-use Debutify\Shopify\Adapters\ShopifyWebhookAdapter;
+use Kmrifat\Shopify\Adapters\ShopifyWebhookAdapter;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Queue;

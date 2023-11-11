@@ -1,6 +1,6 @@
 <?php
 
-namespace Debutify\Shopify\Adapters;
+namespace Kmrifat\Shopify\Adapters;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;

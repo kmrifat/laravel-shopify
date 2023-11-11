@@ -1,9 +1,9 @@
 <?php
 
-namespace Debutify\Shopify;
+namespace Kmrifat\Shopify;
 
-use Debutify\Shopify\Commands\RegisterWebhooks;
-use Debutify\Shopify\Providers\SocialiteDriverProvider;
+use Kmrifat\Shopify\Commands\RegisterWebhooks;
+use Kmrifat\Shopify\Providers\SocialiteDriverProvider;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
 
@@ -29,8 +29,8 @@ class ShopifyServiceProvider extends ServiceProvider
     public function boot(): void
     {
 
-        Route::prefix('debutify-shopify')
-            ->as('debutify-shopify.')
+        Route::prefix('laravel-shopify')
+            ->as('laravel-shopify.')
             ->group(function () {
                 $this->loadRoutesFrom(__DIR__ . '/../routes/web.php');
             });

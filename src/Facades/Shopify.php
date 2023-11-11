@@ -1,6 +1,6 @@
 <?php
 
-namespace Debutify\Shopify\Facades;
+namespace Kmrifat\Shopify\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
