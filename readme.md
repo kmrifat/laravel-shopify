@@ -3,7 +3,7 @@ It's an api first approach laravel wrapper, comes with shopify authentication an
 
 Publish providers
 ```bash
-php artisan vendor:publish --provider="Debutify\Shopify\ShopifyServiceProvider"
+php artisan vendor:publish --provider="Kmrifat\Shopify\ShopifyServiceProvider"
 php artisan migrate
 ```
 
