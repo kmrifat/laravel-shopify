@@ -1,4 +1,4 @@
-# Debutify Shopify Laravel Wrapper
+# Laravel Shopify
 It's an api first approach laravel wrapper, comes with shopify authentication and easy access shopify api.
 
 Publish providers
