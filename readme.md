@@ -4,7 +4,7 @@ It's an api first approach laravel wrapper, comes with shopify authentication an
 
 ### History
 
-After deprecate of (gnikyt / laravel-shopify)[https://github.com/gnikyt/laravel-shopify/discussions/1276], i tried
+After deprecate of [gnikyt/laravel-shopify](https://github.com/gnikyt/laravel-shopify/discussions/1276), i tried
 Shopify's official php wrapper, but i found it highly focus on shopify so hard to implement other platform on it, and
 hard to build api oriented SAP app for shopify app store.
 
