@@ -1,5 +1,8 @@
 {
     "name": "kmrifat/laravel-shopify",
+    "license": "MIT",
+    "keywords": ["shopify", "laravel", "api" , "scantum", "passport"],
+    "homepage": "https://github.com/kmrifat/laravel-shopify",
     "autoload": {
         "psr-4": {
             "Kmrifat\\Shopify\\": "src/"
@@ -8,7 +11,8 @@
     "authors": [
         {
             "name": "Rifat ul alom",
-            "email": "kmrifat@gmail.com"
+            "email": "kmrifat@gmail.com",
+            "role" : "Developer"
         }
     ],
     "require": {
